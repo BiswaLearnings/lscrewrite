@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns="http://logging.apache.org/log4php/">
+	
+	<appender name="lscAppender" class="LoggerAppenderFile">
+		<param name="file" value="tmp/lsc.log" />
+	</appender>
+	<root>
+		<level value="TRACE" />
+			<appender_ref ref="lscAppender" />
+	</root>
+	<root>
+		<level value="DEBUG" />
+			<appender_ref ref="lscAppender" />
+	</root>
+	<root>
+		<level value="INFO" />
+			<appender_ref ref="lscAppender" />
+	</root>
+	<root>
+		<level value="WARN" />
+			<appender_ref ref="lscAppender" />
+	</root>
+	<root>
+		<level value="ERROR" />
+			<appender_ref ref="lscAppender" />
+	</root>
+	<root>
+		<level value="FATAL" />
+			<appender_ref ref="lscAppender" />
+	</root>
+	
+</configuration>

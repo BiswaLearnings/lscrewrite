@@ -1,0 +1,331 @@
+DEBUG - loginController: Validate Login: 
+INFO - Monday, 25th March 2013 02:41 pm: Class: Session > getUserLogin() 
+INFO - Monday, 25th March 2013 02:41 pm:  End getUserLogin()
+DEBUG - loginController: Validate Login: 
+INFO - Monday, 25th March 2013 02:43 pm: Class: Session > getUserLogin() 
+INFO - Monday, 25th March 2013 02:43 pm:  End getUserLogin()
+DEBUG -  logged out successfully!
+DEBUG - loginController: Validate Login: 
+DEBUG - loginController: Validate Login: 
+DEBUG -  logged out successfully!
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Tuesday, 26th March 2013 06:29 am: Session - startSession()
+INFO - Tuesday, 26th March 2013 06:29 am: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Tuesday, 26th March 2013 06:34 am: Session - startSession()
+INFO - Tuesday, 26th March 2013 06:34 am: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+INFO - Tuesday, 26th March 2013 06:34 am: Class: Session > getUserLogin() 
+INFO - Tuesday, 26th March 2013 06:34 am: Class: Session > getUserLogin() 
+INFO - Tuesday, 26th March 2013 06:44 am: Class: Session > getUserLogin() 
+INFO - Tuesday, 26th March 2013 06:44 am: Class: Session > getUserLogin() 
+INFO - Tuesday, 26th March 2013 07:51 am: Class: Session > getUserLogin() 
+INFO - Tuesday, 26th March 2013 01:46 pm: Class: Session > getUserLogin() 
+INFO - Thursday, 28th March 2013 07:37 am: Class: Session > getUserLogin() 
+INFO - Thursday, 28th March 2013 07:38 am: Class: Session > getUserLogin() 
+INFO - Thursday, 28th March 2013 12:31 pm: Class: Session > getUserLogin() 
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Thursday, 28th March 2013 12:40 pm: Class: Session > getUserLogin() 
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+INFO - Friday, 29th March 2013 07:49 am: Class: Session > getUserLogin() 
+INFO - Action: Add Resource
+INFO - Friday, 29th March 2013 11:16 am: Class: Session > getUserLogin() 
+INFO - Action: Add Resource
+DEBUG - loginController: Validate Login: 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Friday, 29th March 2013 03:24 pm: Session - startSession()
+INFO - Friday, 29th March 2013 03:24 pm: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+DEBUG - loginController: Validate Login: 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Friday, 29th March 2013 03:24 pm: Session - startSession()
+INFO - Friday, 29th March 2013 03:24 pm: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Friday, 29th March 2013 03:24 pm: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Friday, 29th March 2013 03:24 pm: Session - startSession()
+INFO - Friday, 29th March 2013 03:24 pm: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Friday, 29th March 2013 03:24 pm: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+INFO - Action: Add Resource
+DEBUG - loginController: Validate Login: 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Tuesday, 2nd April 2013 06:58 am: Session - startSession()
+INFO - Tuesday, 2nd April 2013 06:58 am: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+DEBUG - loginController: Validate Login: 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Tuesday, 2nd April 2013 06:58 am: Session - startSession()
+INFO - Tuesday, 2nd April 2013 06:58 am: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Tuesday, 2nd April 2013 06:58 am: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+INFO - Display Add Account Form
+INFO - Action: Add Resource
+INFO - Display Add Account Form
+DEBUG - loginController: Validate Login: 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Tuesday, 2nd April 2013 07:30 am: Session - startSession()
+INFO - Tuesday, 2nd April 2013 07:30 am: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Tuesday, 2nd April 2013 07:30 am: Session - startSession()
+INFO - Tuesday, 2nd April 2013 07:30 am: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Tuesday, 2nd April 2013 07:30 am: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+DEBUG - loginController: Validate Login: 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Wednesday, 3rd April 2013 11:50 am: Session - startSession()
+INFO - Wednesday, 3rd April 2013 11:50 am: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Wednesday, 3rd April 2013 11:50 am: Session - startSession()
+INFO - Wednesday, 3rd April 2013 11:50 am: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Wednesday, 3rd April 2013 11:50 am: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+INFO - Display Add Account Form
+INFO - Display Add Account Form
+INFO - Display Add Account Form
+INFO - Display Add Account Form
+INFO - Display Add Account Form
+DEBUG -  logged out successfully!
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Thursday, 4th April 2013 12:37 pm: Session - startSession()
+INFO - Thursday, 4th April 2013 12:37 pm: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Thursday, 4th April 2013 12:37 pm: Session - startSession()
+INFO - Thursday, 4th April 2013 12:37 pm: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Thursday, 4th April 2013 12:37 pm: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+DEBUG -  logged out successfully!
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Friday, 5th April 2013 10:27 am: Session - startSession()
+INFO - Friday, 5th April 2013 10:27 am: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Friday, 5th April 2013 10:27 am: Session - startSession()
+INFO - Friday, 5th April 2013 10:27 am: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Friday, 5th April 2013 10:27 am: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+DEBUG -  logged out successfully!
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Monday, 8th April 2013 11:54 am: Session - startSession()
+INFO - Monday, 8th April 2013 11:54 am: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Monday, 8th April 2013 11:55 am: Session - startSession()
+INFO - Monday, 8th April 2013 11:55 am: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Monday, 8th April 2013 11:55 am: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+DEBUG -  logged out successfully!
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Wednesday, 10th April 2013 04:11 pm: Session - startSession()
+INFO - Wednesday, 10th April 2013 04:11 pm: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Wednesday, 10th April 2013 04:11 pm: Session - startSession()
+INFO - Wednesday, 10th April 2013 04:11 pm: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Wednesday, 10th April 2013 04:11 pm: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Wednesday, 10th April 2013 04:12 pm: Session - startSession()
+INFO - Wednesday, 10th April 2013 04:12 pm: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Wednesday, 10th April 2013 04:12 pm: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+INFO - Action: Add Resource
+DEBUG -  logged out successfully!
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Thursday, 11th April 2013 07:06 am: Session - startSession()
+INFO - Thursday, 11th April 2013 07:06 am: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Thursday, 11th April 2013 07:08 am: Session - startSession()
+INFO - Thursday, 11th April 2013 07:08 am: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Thursday, 11th April 2013 07:08 am: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+INFO - Action: Add Resource
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+INFO - Action: Add Resource
+INFO - Action: Add Resource
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+DEBUG -  logged out successfully!
+INFO - Action: Role List
+INFO - Role list displayed successfully to user
+INFO - Action: Add Role
+INFO - Request for adding new role under AccountID:1
+INFO - Successfully displayed Add Role screen
+DEBUG -  logged out successfully!
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Friday, 12th April 2013 02:34 pm: Session - startSession()
+INFO - Friday, 12th April 2013 02:34 pm: Class: Session > getUserLogin() 
+INFO - End getUserLogin(): Username: admin - Userid: 1 
+INFO - Friday, 12th April 2013 02:34 pm: startSession() -  Updated users last active timestamp
+DEBUG - login() - Username:  admin
+INFO - Friday, 12th April 2013 02:34 pm: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Friday, 12th April 2013 02:43 pm: Session - startSession()
+INFO - Friday, 12th April 2013 02:43 pm: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Friday, 12th April 2013 02:43 pm: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Friday, 12th April 2013 02:48 pm: Session - startSession()
+INFO - Friday, 12th April 2013 02:48 pm: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Friday, 12th April 2013 02:48 pm: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+DEBUG - loginController: Validate Login: 1
+DEBUG - Login validation: 1
+INFO - Friday, 12th April 2013 02:48 pm: Session - startSession()
+INFO - Friday, 12th April 2013 02:48 pm: Class: Session > getUserLogin() 
+DEBUG - login() - Username:  admin
+INFO - Friday, 12th April 2013 02:48 pm: Class: Session > getUserLogin() 
+DEBUG - Authentication Result : 1
+INFO - Action: Role List
+INFO - Role list displayed successfully to user
+INFO - Action: Add Role
+INFO - Request for adding new role under AccountID:1
+INFO - Successfully displayed Add Role screen
+INFO - Action: Role List
+INFO - Role list displayed successfully to user
+INFO - Action: Add Role
+INFO - Request for adding new role under AccountID:1
+INFO - Successfully displayed Add Role screen
+INFO - Action: Role List
+INFO - Role list displayed successfully to user

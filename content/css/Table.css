@@ -1,0 +1,44 @@
+#box-table th
+{
+    font-size: 12px;
+    font-weight: bold;
+    padding: 8px;
+    background: #FFCE73;
+    color: #003DB8;
+}
+#box-table td
+{
+    padding: 8px;
+    color: #000;
+}
+#box-table tr:hover td
+{
+    background: #d0dafd;
+    color: #000;
+}
+
+#box-table
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #000000;
+    font-size: 11px;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#box-table a
+{
+    color: #000000;
+}
+
+#box-table td :hover
+{
+    color: #444444;
+}
+
+#box-table a img
+{
+    border: none;
+}
+

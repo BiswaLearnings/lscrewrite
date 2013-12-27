@@ -1,0 +1,37 @@
+@CHARSET "ISO-8859-1";
+
+.accordionheader{
+	position : relative;
+	width : 98%;
+	height : 25px;
+	margin : 2px 5px;
+	padding : 2px 5px;
+	border: 1px solid gray;
+	background: #E1E1E1;
+}
+
+.headerTitle
+{
+	position : relative;
+	float : left;
+	cursor: hand;
+	cursor: pointer;
+	width : 400px;
+}
+
+.headerOptions
+{
+	position : relative;
+	float : right;
+	text-decoration : underline;
+	padding : 0px 5px;
+	margin : 0px 5px;
+    cursor : hand;
+    cursor: pointer;
+}
+
+.accordionContent
+{
+    position: relative;
+    margin-left: 20px;
+}
